@@ -13,6 +13,7 @@ Cookbook Scout is a simple recipe search website built using HTML, CSS, and Java
 - CSS
 - JavaScript
 - [TheMealDB API](https://www.themealdb.com/api.php)
+- Frontend only (No Backend)
   
 ## 🔗 API Used
 This project uses **TheMealDB API** to get recipe data.
